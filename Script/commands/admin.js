@@ -28,7 +28,7 @@ module.exports.run = async function({ api, event }) {
 ┃ 🎂 𝐀𝐠𝐞       : 17+
 ┃ 🕌 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧  : 𝐈𝐬𝐥𝐚𝐦
 ┃ 🏫 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : ssc complete
-┃ 🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬  : Nageswari, Kurigam
+┃ 🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬  : Nageswari,Kurigam
 ┣━━━━━━━━━━━━━━━━━━━━━┫
 ┃ 🎭 𝐓𝐢𝐤𝐭𝐨𝐤  : smg.akash
 ┃ 📢 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 : @kinghockervai
