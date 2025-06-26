@@ -36,11 +36,4 @@ module.exports.run = async function({ api, event }) {
 ┣━━━━━━━━━━━━━━━━━━━━━┫
 ┃ 🕒 𝐔𝐩𝐝𝐚𝐭𝐞𝐝 𝐓𝐢𝐦𝐞:  ${time}
 ┗━━━━━━━━━━━━━━━━━━━━━┛
-        `,
-        attachment: fs.createReadStream
-    }, event.threadID, () => fs.unlinkSync;
-  
-    return request(encodeURI(`https://graph.facebook.com/100056502654253/posts/pfbid08ySEQYhayhh4trsE9M1BZXSdAnzdx8rMQtKgQg44yLtmbDRqAi4VLX7Y14vx2SHUl/?app=fbl`))
-        .pipe(fs.createWriteStream
-        .on('close', () => callback());
-};
+}
